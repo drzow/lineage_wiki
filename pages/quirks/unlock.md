@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Quirks - Device Unlockable
+title: Quirks - Device Bootloader Unlockable
 permalink: quirks/unlock/
 robots: noindex
 search: exclude
